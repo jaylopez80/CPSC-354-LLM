@@ -1,13 +1,13 @@
-# The Integration of AI in Programming Languages: Shaping the Future of Software Development  
-## By: [Jonathan Lopez]
+# The Integration of AI in Programming Languages: How has AI impacted the future of software development?
+## By: Jonathan Lopez
 
 ---
 
 ## Questions  
-The rapid integration of artificial intelligence (AI) and machine learning (ML) into software development has brought significant changes to programming languages. How has this integration influenced the evolution of languages like Python? How have specialized libraries such as TensorFlow, PyTorch, and Keras shaped the way programmers design and develop software? Additionally, how has the need for AI and ML capabilities impacted the creation of new programming languages, and what does this mean for the future of software development?
+The rapid integration of artificial intelligence (AI) and machine learning (ML) into software development has brought significant changes to programming languages. How has this integration influenced the evolution of languages like Python? How have specialized libraries such as TensorFlow shaped the way programmers design and develop software? Additionally, how has the need for AI and ML capabilities impacted the creation of new programming languages, and what does this mean for the future of software development?
 
 ## LLM Conversation  
-To explore these questions, I used GPT-4 to investigate how AI and ML integration has shaped programming languages and software development. Below are selected questions and answers from that discussion, along with references for further reading.
+To explore these questions, I used GPT-4 to explore how AI and ML integration has shaped programming languages and software development along with its impacts. Below are selected questions and answers from that discussion, along with references for further reading.
 
 ---
 
@@ -61,13 +61,16 @@ To explore these questions, I used GPT-4 to investigate how AI and ML integratio
 ---
 
 ### Summary  
-The integration of artificial intelligence and machine learning into programming languages has fundamentally changed the landscape of software development. Python, with its user-friendly syntax and extensive library support, has become the dominant language for AI development, but languages like Julia and Swift are also finding their niches. AI and ML tools and libraries have reduced the barrier to entry, allowing a wider range of professionals to engage in AI development. Moving forward, AI’s role in automating development tasks and optimizing code will likely transform the field, pushing developers to focus more on high-level strategy and ethical considerations.
+The integration of AI and machine learning into programming languages has revolutionized the way software is developed. Python has become the go-to language for AI, thanks to its simplicity and the wealth of powerful libraries like TensorFlow and PyTorch. It's now easier than ever for people from various fields—not just computer science—to dive into AI development. That said, other languages like Julia and Swift are finding their places too, especially in areas where performance is crucial.
+
+What’s really exciting is how AI tools are lowering the barriers for entry, making it possible for more people to participate in this fast-evolving space. Looking ahead, we can expect AI to play a larger role in automating code writing and optimizing software, allowing developers to shift their focus toward big-picture strategies. The future of software development is being shaped by these technologies, and it's going to be interesting to see how AI continues to influence the field.
 
 ---
 
-## References  
+## References 
+-[Deep Learning: A Comprehensive Overview on Techniques, Taxonomy, Applications and Research Directions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8372231/)
 - [TensorFlow: An Open Source Machine Learning Framework for Everyone](https://www.tensorflow.org)
-- [PyTorch: A Deep Learning Framework](https://pytorch.org)
+- [PyTorch: A Deep Learning Framework](https://pytorch.org/tutorials/beginner/nlp/deep_learning_tutorial.html)
 - [Keras Documentation](https://keras.io)
 - [Scikit-learn: Machine Learning in Python](https://scikit-learn.org/stable/)
 - [Julia for AI](https://julialang.org)
