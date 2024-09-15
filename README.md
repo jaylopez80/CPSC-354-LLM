@@ -68,7 +68,7 @@ What’s really exciting is how AI tools are lowering the barriers for entry, ma
 ---
 
 ## References 
--[Deep Learning: A Comprehensive Overview on Techniques, Taxonomy, Applications and Research Directions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8372231/)
+- [Deep Learning: A Comprehensive Overview on Techniques, Taxonomy, Applications and Research Directions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8372231/)
 - [TensorFlow: An Open Source Machine Learning Framework for Everyone](https://www.tensorflow.org)
 - [PyTorch: A Deep Learning Framework](https://pytorch.org/tutorials/beginner/nlp/deep_learning_tutorial.html)
 - [Keras Documentation](https://keras.io)
